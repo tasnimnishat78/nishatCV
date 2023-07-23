@@ -1,0 +1,11 @@
+<html>
+<title>Location</title>
+<body>
+<a href="Home.html">Home</a>
+<a href="Result.html">Result</a>
+<a href="Video.html">Video</a>
+<a href="Location.html">Location</a>
+<center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1825.6483471880065!2d90.35988357501739!3d23.772446903615915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDQ2JzE5LjkiTiA5MMKwMjEnMzYuMCJF!5e0!3m2!1sen!2sbd!4v1690134217966!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+</html>
