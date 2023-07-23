@@ -1,16 +1,17 @@
 <html>
-
 <head>
     <title>Home</title>
 </head>
-
 <body>
-    <center><img src="K.M. Al Jaziz Turja.jpg" height="300px" width="250px"></center>
+<a href="Home.html">Home</a>
+<a href="Result.html">Result</a>
+<a href="Video.html">Video</a>
+<a href="Location.html">Location</a>
+    <center><img src="Nazim.jpg" height="300px" width="250px"></center>
     <hr>
     <center>
-        <h1>Curriculum Vitae of Md. Abdur Noor Nazim</h1>
+        <h1>Curriculum Vitae</h1>
     </center>
-  
         <p>
         <h2>Personal Information:</h2>
         <b>Name:</b>Md. Abdur Noor Nazim<br>
@@ -28,15 +29,14 @@
         <p>
         <h2>Project Accomplished:</h2>
         <ul>
-            <li><a href="https://github.com/aturja65/Snake-Game">Snake Game using Python</a></li>
-            <li><a href="https://github.com/aturja65/Hangman-Game">Hangman Game using Python</a></li>
+            <li>Student Billing System using JAVA</a></li>
+            <li>Login System using JAVA</li>
         </ul>
         </p>
         <p>
         <h2>Achievements:</h2>
         <ol>
-            <li>IIIII</li>
-            <li>Hello</li>
+            <li>I have designed many projects using UI/UX design</li>
         </ol>
         </p>
         <h2>Reference:</h2>
@@ -45,7 +45,5 @@
             <li><a href="https://github.com/rittique">Md. Rittque Alam</a></li>
         </ul>
         </p>
-    
 </body>
-
 </html>
