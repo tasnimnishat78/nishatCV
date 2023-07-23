@@ -13,7 +13,7 @@
         <h1>Curriculum Vitae</h1>
     </center>
         <p>
-        <h2>Personal Information:</h2>
+        <h2><b><u>Personal Information:</u></b></h2>
         <b>Name:</b>Md. Abdur Noor Nazim<br>
         <b>Father's Name:</b>Abdul Wadud Mintu <br>
         <b>Mother's Name:</b>Nazma Khatun<br>
@@ -27,22 +27,23 @@
         <b>University Name:</b> Daffodil International University
         </p>
         <p>
-        <h2>Project Accomplished:</h2>
+        <h2><b><u>Project Accomplished:</u></b></h2>
         <ul>
-            <li>Student Billing System using JAVA</a></li>
-            <li>Login System using JAVA</li>
+            <li>Student Billing System using JAVA</li>
+            <li>Designed Dashboard using Figma</li>
+            <li>Designed Landing page using Figma</li>
         </ul>
         </p>
         <p>
-        <h2>Achievements:</h2>
+        <h2><b><u>Achievements:</u></b></h2>
         <ol>
-            <li>I have designed many projects using UI/UX design</li>
+            <li>I have got a certificate for successfully attending a Bootcamp on Software Quality Assurance and Testing</li>
+            <li>I have designed UI/UX projects by using Figma</li>
         </ol>
         </p>
-        <h2>Reference:</h2>
-        <ul>
+        <h2><b><u>Reference:</u></b></h2>
+        <ul type="circle" style="display: inline-block;text-align: left;">
             <li><a href="https://github.com/Esraq">Eshraq Humayun Eisty</a></li>
-            <li><a href="https://github.com/rittique">Md. Rittque Alam</a></li>
         </ul>
         </p>
 </body>
