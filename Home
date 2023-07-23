@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <title>Home</title>
+</head>
+
+<body>
+    <center><img src="K.M. Al Jaziz Turja.jpg" height="300px" width="250px"></center>
+    <hr>
+    <center>
+        <h1>Curriculum Vitae of Md. Abdur Noor Nazim</h1>
+    </center>
+  
+        <p>
+        <h2>Personal Information:</h2>
+        <b>Name:</b>Md. Abdur Noor Nazim<br>
+        <b>Father's Name:</b>Abdul Wadud Mintu <br>
+        <b>Mother's Name:</b>Nazma Khatun<br>
+        <b>Present Address:</b> Ring road, Adabor, Dhaka-1207 <br>
+        <b>Permanent Address:</b> Cumilla
+        </p>
+        <p>
+        <h2><b><u>Education:</u></b></h2>
+        <b>School Name:</b> Mohammadpur Govt. High School <br>
+        <b>College Name:</b> Queen's College <br>
+        <b>University Name:</b> Daffodil International University
+        </p>
+        <p>
+        <h2>Project Accomplished:</h2>
+        <ul>
+            <li><a href="https://github.com/aturja65/Snake-Game">Snake Game using Python</a></li>
+            <li><a href="https://github.com/aturja65/Hangman-Game">Hangman Game using Python</a></li>
+        </ul>
+        </p>
+        <p>
+        <h2>Achievements:</h2>
+        <ol>
+            <li>IIIII</li>
+            <li>Hello</li>
+        </ol>
+        </p>
+        <h2>Reference:</h2>
+        <ul>
+            <li><a href="https://github.com/Esraq">Eshraq Humayun Eisty</a></li>
+            <li><a href="https://github.com/rittique">Md. Rittque Alam</a></li>
+        </ul>
+        </p>
+    
+</body>
+
+</html>
