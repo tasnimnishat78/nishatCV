@@ -1,0 +1,43 @@
+<html>
+<head>
+    <title>Result</title>
+</head>
+<body>
+    <a href="Home.html">Home</a>
+    <a href="Result.html">Result</a>
+    <a href="Video.html">Video</a>
+    <a href="Location.html">Location</a>
+    <center>
+        <h1>Academic Result</h1>
+    </center>
+    <hr>
+    <center>
+        <table border="1">
+            <tr>
+                <th>Examination</th>
+                <th>Institute</th>
+                <th>Group/Department</th>
+                <th>CGPA/GPA</th>
+            </tr>
+            <tr>
+                <td>S.S.C</td>
+                <td>Mohammadpur Govt. High School</td>
+                <td>Science</td>
+                <td>4.11</td>
+            </tr>
+            <tr>
+                <td>H.S.C</td>
+                <td>Queen's College</td>
+                <td>Science</td>
+                <td>4.17</td>
+            </tr>
+            <tr>
+                <td>B.Sc.</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>3.86</td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
