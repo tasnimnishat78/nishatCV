@@ -1,0 +1,12 @@
+<html>
+<title>Video</title>
+<body>
+<a href="Home.html">Home</a>
+<a href="Result.html">Result</a>
+<a href="Video.html">Video</a>
+<a href="Location.html">Location</a>
+<br>
+<center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Fymd3QmXzoM" title="Duniyaa (Cover) | Luka Chuppi | Hindi Song | Without instruments | NeXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
