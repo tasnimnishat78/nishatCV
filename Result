@@ -7,12 +7,13 @@
     <a href="Result.html">Result</a>
     <a href="Video.html">Video</a>
     <a href="Location.html">Location</a>
+    <a href="Contact.html">Contact</a>
     <center>
         <h1>Academic Results</h1>
     </center>
     <hr>
     <center>
-        <table border="1">
+        <table border="3">
             <tr>
                 <th>Examination</th>
                 <th>Institute</th>
@@ -31,11 +32,47 @@
                 <td>Science</td>
                 <td>4.17</td>
             </tr>
-            <tr>
-                <td>B.Sc.</td>
+           <tr>
+                <td>Semester 1</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>3.86</td>
+                <td>4.00</td>
+            </tr>
+            <tr>
+                <td>Semester 2</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>3.77</td>
+            </tr>
+            <tr>
+                <td>Semester 3</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>3.90</td>
+            </tr>
+            <tr>
+                <td>Semester 4</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>3.92</td>
+            </tr>
+            <tr>
+                <td>Semester 5</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>4.00</td>
+            </tr>
+            <tr>
+                <td>Semester 6</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>3.64</td>
+            </tr>
+            <tr>
+                <td>Semester 7</td>
+                <td>Daffodil International University</td>
+                <td>SWE</td>
+                <td>3.87</td>
             </tr>
         </table>
     </center>
