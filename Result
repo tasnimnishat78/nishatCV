@@ -9,9 +9,9 @@
     <a href="Location.html">Location</a>
     <a href="Contact.html">Contact</a>
     <center>
-        <h1>Academic Results</h1>
+        <h1><u>Academic Results</u></h1>
     </center>
-    <hr>
+    
     <center>
         <table border="3">
             <tr>
@@ -24,55 +24,55 @@
                 <td>S.S.C</td>
                 <td>Mohammadpur Govt. High School</td>
                 <td>Science</td>
-                <td>4.11</td>
+                <td>4.11 out of 5.00</td>
             </tr>
             <tr>
                 <td>H.S.C</td>
                 <td>Queen's College</td>
                 <td>Science</td>
-                <td>4.17</td>
+                <td>4.17 out of 5.00</td>
             </tr>
            <tr>
                 <td>Semester 1</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>4.00</td>
+                <td>4.00 out of 4.00</td>
             </tr>
             <tr>
                 <td>Semester 2</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>3.77</td>
+                <td>3.77 out of 4.00</td>
             </tr>
             <tr>
                 <td>Semester 3</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>3.90</td>
+                <td>3.90 out of 4.00</td>
             </tr>
             <tr>
                 <td>Semester 4</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>3.92</td>
+                <td>3.92 out of 4.00</td>
             </tr>
             <tr>
                 <td>Semester 5</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>4.00</td>
+                <td>4.00 out of 4.00</td>
             </tr>
             <tr>
                 <td>Semester 6</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>3.64</td>
+                <td>3.64 out of 4.00</td>
             </tr>
             <tr>
                 <td>Semester 7</td>
                 <td>Daffodil International University</td>
                 <td>SWE</td>
-                <td>3.87</td>
+                <td>3.87 out of 4.00</td>
             </tr>
         </table>
     </center>
