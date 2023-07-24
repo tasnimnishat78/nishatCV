@@ -10,24 +10,24 @@
     <a href="Location.html">Location</a>
     <a href="Contact.html">Contact</a><br> <br> <br>
 
-	<b>Name:</b> <input type = "text" name = "name" placeholder="input name"><br> <br>
-	<b>Email:</b> <input type = "email" name = "email" placeholder="input Email"><br> <br>
-  <b>Password:</b> <input type = "password" name = "password" placeholder="input password"><br> <br>
-	<b>Phone:</b> <input type = "text" name = "phone" placeholder="input Phone no"><br> <br>
+	<b>Name:</b> <input type = "text" name = "name" placeholder="Input Name"><br> <br>
+	<b>Email:</b> <input type = "email" name = "email" placeholder="Input Email"><br> <br>
+  <b>Password:</b> <input type = "password" name = "password" placeholder="Input Password"><br> <br>
+	<b>Phone:</b> <input type = "text" name = "phone" placeholder="Input Phone no."><br> <br>
 	<b>Gender:</b> <br><input type= "radio" name="male">Male
 	<input type= "radio" name="Femal">Female
 	<input type= "radio" name="Others">Others
 	<br><br>
-	
+	<b>Country:</b> 
 	<select name="Country">
   	<option value="Bangladesh">Bangladesh</option>
     <option value="Paksthan">Pakisthan</option>
   	<option value="India">India</option>
   	<option value="UK">UK</option>
 	</select>
-	<br><br>
-	<textarea id="w3review" name="w3review" rows="4" cols="50">
-	Write something here
+	<br><br><br>
+<b>Write Something about yourself:</b><br><br>
+	<textarea id="w3review" name="w3review" rows="4" cols="50"> Write something here
 	</textarea><br><br>
 
 	Plese upload your image here:
